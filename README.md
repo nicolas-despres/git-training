@@ -1,2 +1,3 @@
 # git-training
-#Change by TomaszT
+# git-training
+# Change by TomaszT
