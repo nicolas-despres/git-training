@@ -1,3 +1,3 @@
 # git-training
 # git-training
-# Change by TomaszT
+# git-training
